@@ -1,0 +1,31 @@
+#hiderow,
+.delete {
+  	display: none;
+}
+@media print {
+	.ps-breadcrumb.container,
+    .header,
+	.header--1,
+	.header--mobile,
+	.ps-newsletter,
+	.ps-footer,
+	.ps-section__cart-actions.psdiv ,
+	.ps-block--user-header,
+	.ps-logo,
+	.navigation--list,
+	.navigation ,
+	.navigation .navigation__right,
+	.navigation--mobile ,
+	.navigation__extra>li a,
+	.ps-breadcrumb ,
+	.ps-breadcrumb .breadcrumb a,
+	form#ms-search-form ,
+	.ps-form--search-mobile input,
+	.ps-form--search-mobile button {
+		display:none;
+	}
+	p#header {
+		background:transparent;
+	}
+	
+}

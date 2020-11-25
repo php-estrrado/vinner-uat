@@ -1,0 +1,3 @@
+Product Name,Product Code(must be unique),Product Type,Product Condition( New:0 / Refurbished:1),Category Code,Sub Category  Code,Equipment Code,Sub Equipment Code,Brand Code,Sale Price,Unit(pc/no),Model,Location,Current Stock,Length (cm),Width(cm),Height(cm),Weight(kg),Description,HS Code,Short Description
+testname,testcode1,testtype1,0,22,51,27,0,42,999,pc,testmodel,UAE,5,2,2,2,2,Test Description,90149000,
+testname,testcode2,testtype2,0,22,51,27,0,42,999,pc,testmodel,UAE,5,2,2,2,2,Test Description,90149000,

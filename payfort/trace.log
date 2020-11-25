@@ -1,0 +1,1493 @@
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 0
+    [currency] => AED
+    [merchant_identifier] => yNwftUKy
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/payfort/route.php?r=processResponse
+    [merchant_reference] => 
+    [signature] => 4cf6e262a3e3ef15b3547798c6fe5bbfd61c5f00e569ef32474d586536cf9d49
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 0
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.comvinner//payfort/route.php?r=processResponse
+    [merchant_reference] => 
+    [signature] => 6139b1b4726b68c97268d8a9c3e5e76270f379ac9798e982551f1f8b6c3b38db
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 0
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 
+    [signature] => 13869ecdc79e6003e6eb278ddceb9cfed55a59d96768be86e0e09bfc4bc67177
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 0
+    [response_code] => 00006
+    [response_message] => Technical problem
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [language] => en
+    [command] => PURCHASE
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 2500
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 2020083
+    [signature] => 809ca9b33c90e119f92403b19dbd7757cdcc4d5b71089c867332a034bb245ee3
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 2500
+    [response_code] => 00006
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Technical problem
+    [merchant_reference] => 2020083
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 0
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 
+    [signature] => 13869ecdc79e6003e6eb278ddceb9cfed55a59d96768be86e0e09bfc4bc67177
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 0
+    [response_code] => 00006
+    [response_message] => Technical problem
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [language] => en
+    [command] => PURCHASE
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 0
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 
+    [digital_wallet] => VISA_CHECKOUT
+    [signature] => 4d27b1b6368b2c517fa83b52135346b172d00e665699441a459f6d2a5efc2668
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 0
+    [response_code] => 00006
+    [digital_wallet] => VISA_CHECKOUT
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Technical problem
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 0
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 
+    [digital_wallet] => MASTERPASS
+    [cart_details] => {"cart_items":[{"item_name":"Xbox360","item_description":"Xbox","item_quantity":"3","item_price":"300","item_image":"http://image.com"},{"item_name":"Xbox1","item_description":"Xbox","item_quantity":"2","item_price":"500","item_image":"http://image.com"}],"sub_total":"800"}
+    [signature] => 1856b6d26ebefbd855756e2108a1d79614b8ce319c73c121fedeace03227f3f9
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 0
+    [response_code] => 00006
+    [digital_wallet] => MASTERPASS
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Technical problem
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 0
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 
+    [signature] => 13869ecdc79e6003e6eb278ddceb9cfed55a59d96768be86e0e09bfc4bc67177
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 0
+    [response_code] => 00006
+    [response_message] => Technical problem
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [language] => en
+    [command] => PURCHASE
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 2500
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 2020088
+    [signature] => b66f33087e2934a8481875f0b63b51e038a83d2478f4441ebfd5bddcbb27a9d0
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 2500
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 2020088
+    [signature] => b66f33087e2934a8481875f0b63b51e038a83d2478f4441ebfd5bddcbb27a9d0
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 2500
+    [response_code] => 00009
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid merchant identifier
+    [merchant_reference] => 2020088
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 2500
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200810
+    [signature] => f44490d7d12605d7f65155ad8d5af6e88e64bd94515be2e41272678e9ef7fb10
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 2500
+    [response_code] => 00040
+    [signature] => 3c9ae8a593d2d2d70f64f5103cdff4d871e84bbaa6ac968e70cdcb0720791909
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [merchant_reference] => 20200810
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 2500
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200811
+    [signature] => 55d237b47b6cad7877a2a2d3d04f3149c667daa8316fce7e62f3c5b08010c0c9
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 2500
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200811
+    [signature] => 55d237b47b6cad7877a2a2d3d04f3149c667daa8316fce7e62f3c5b08010c0c9
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 2500
+    [response_code] => 00040
+    [signature] => 6d0357097b2ba45e5ea01ce0a588c1c92bbf46429f04bc927c452e83ba568814
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [merchant_reference] => 20200811
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200816
+    [digital_wallet] => MASTERPASS
+    [cart_details] => {"cart_items":[{"item_name":"Xbox360","item_description":"Xbox","item_quantity":"3","item_price":"300","item_image":"http://image.com"},{"item_name":"Xbox1","item_description":"Xbox","item_quantity":"2","item_price":"500","item_image":"http://image.com"}],"sub_total":"800"}
+    [signature] => 5bd826f6c2748d71ae9864d901fa552f42a22c973c5b53dc4ed0dc4c376a2192
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200816
+    [signature] => 7bcff4d659dd739b31c584b38603b01368ff58fceb9d9c70e8963d72a8599279
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000000
+    [response_code] => 00040
+    [signature] => d6d97efdc2194fa2cb6517fdc3773a5c384c521e5c14e2249bb16aa470df3513
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [merchant_reference] => 20200816
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 145000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200817
+    [signature] => e6b31062a448c404026f206903c2e218430877bae3775d7ca23d15191b796a68
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 145000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200817
+    [signature] => e6b31062a448c404026f206903c2e218430877bae3775d7ca23d15191b796a68
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 145000
+    [response_code] => 00040
+    [signature] => fc61c6341b5cc40171b3a18db4c1bf6e8d91c59a997bf4a2461a41096c67de79
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [merchant_reference] => 20200817
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 0
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 
+    [signature] => 13869ecdc79e6003e6eb278ddceb9cfed55a59d96768be86e0e09bfc4bc67177
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 0
+    [response_code] => 00040
+    [signature] => 49226b20033974147bcbd0ebb134d1e27ff2b73340e6e17fbd53490aad65ef56
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 550000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200822
+    [signature] => 384cdeb519a6bd586806e5a1df7480f1bbe853ab0190f1bcd7ec033b917011e5
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 550000
+    [response_code] => 00040
+    [signature] => 1c718a87501902c706550b5e62417758a347bba3e6606c6ec77d0fb985fd0de1
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [merchant_reference] => 20200822
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200826
+    [signature] => a9e0c9566712833339b698b5b567355720d6e19bb35819678fd38e1ad765682e
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000000
+    [response_code] => 00040
+    [signature] => 5dcb357c330b0640301083435c8dfaf20652475589e37dd39da23fd4e9b52bf2
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [merchant_reference] => 20200826
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 30000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200839
+    [signature] => 3d9394e47d1b869f1c25952141f42ccc014aeb068ab45385ac911e14f4f0f402
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 30000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200840
+    [signature] => 5581e0de37d79f133fff1b8c8c4db8f24ce6fb23ddc316c1e0240b30c710a438
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 30000
+    [response_code] => 00040
+    [signature] => 8f46e881f4e66b7b91208215c5dfb8b3c362289d19d660fe26a860ac1d26808c
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [merchant_reference] => 20200840
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 550000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200843
+    [signature] => de6fabcf1f8e9beb1eb517a0100710dd91b7662af0997e408adb81e09135bd28
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 550000
+    [response_code] => 00040
+    [signature] => 06fca1cfddf36037f52a52b11272e3f655490a231dce2b2141aea244f6298e6d
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [merchant_reference] => 20200843
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 0
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 
+    [signature] => 13869ecdc79e6003e6eb278ddceb9cfed55a59d96768be86e0e09bfc4bc67177
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 0
+    [response_code] => 00040
+    [signature] => 49226b20033974147bcbd0ebb134d1e27ff2b73340e6e17fbd53490aad65ef56
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 0
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 
+    [digital_wallet] => VISA_CHECKOUT
+    [signature] => 4d27b1b6368b2c517fa83b52135346b172d00e665699441a459f6d2a5efc2668
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 0
+    [response_code] => 00040
+    [digital_wallet] => VISA_CHECKOUT
+    [signature] => d86144ac4f88b542560c0c4eb06472dcb70bc209ff0248996c3e2675e8d2b592
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 600000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200844
+    [signature] => 8ca4b1257225270e56480a30e5eaac9e7530c815e127751ec61546a7323544eb
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 600000
+    [response_code] => 00040
+    [signature] => 55902beef5d9e56a12e89e4af24b7a85cef9c2f91e43f75cf693315c99d6ce52
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [merchant_reference] => 20200844
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 2300000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200862
+    [signature] => 63fb01b92b91f1c0b2d5daf852ee0f54b81fef3e7787dd148f638cd0b84e5aa8
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 2300000
+    [response_code] => 00040
+    [signature] => 56954b3e677879220cfb48c74fa1d64ec8a17d33abae37394708d6a8b2ed9f43
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [merchant_reference] => 20200862
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1300000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200870
+    [signature] => f263eead9d5cd1ce15109f4b825119495f15bac2150ffa08699d2d91a845412d
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200871
+    [signature] => bccc71a6e7d6884542567f4900f06d539a8db2fe4cf888bbfe1f45c340af6833
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 30000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200887
+    [signature] => efd9b6c1397d79496ff26efc3cb3bb13e33f8f3c43b0eda55c14a34d485ec9cd
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 30000
+    [response_code] => 00046
+    [signature] => f4f4a17d1e0da2d76074ad4769c809e2f47c36856efbb20dc366ef0d16e28af5
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Channel not configured for selected payment option
+    [merchant_reference] => 20200887
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200888
+    [signature] => 08c6ca0d20feb7698b256be8534e0ee85e400dcb1f4a93c6483346fccc7942ff
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000000
+    [response_code] => 00046
+    [signature] => 42412950e359c8e8581a32acf47b9815fd38d75a57c41c5781ce9f990660be17
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Channel not configured for selected payment option
+    [merchant_reference] => 20200888
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000000
+    [response_code] => 00040
+    [signature] => 9be1e9df977e05ba8330239516762e01d21cc739b48684e8bb9aa5f36a92fd99
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [merchant_reference] => 20200888
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 30000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200889
+    [signature] => f88138b9b05e0a05632edd2c422bd5a66ba5746ea50fb8c2934ac30284fbf9b1
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 30000
+    [response_code] => 00040
+    [signature] => e70158f2c9c8550733100e654ae6349857d2a57e5b361048c83ca8117a7c1187
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid transaction source
+    [merchant_reference] => 20200889
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1100000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200893
+    [signature] => 7d9ab4cf4f14ba7b2d47a0c4e39b72835e4d9abedfde27eae6e3f5f31e69200a
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 30000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200896
+    [signature] => a5adf4a5b64d4dff8bc18f98386a1d1be6dfca2792f3b439155738e20fc91b49
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 30000
+    [response_code] => 00046
+    [signature] => 039b3c6b4ef0a2d55e7b7bbc44d90da28c647128eddaafd33039d22875d1df8a
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Channel not configured for selected payment option
+    [merchant_reference] => 20200896
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 30000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200897
+    [signature] => e247986bccde8321e75423f2c15f671fb39bbeb978787dee481689c589501b6c
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 30000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200897
+    [signature] => e247986bccde8321e75423f2c15f671fb39bbeb978787dee481689c589501b6c
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 30000
+    [response_code] => 00046
+    [signature] => cc1adadc1c7c63b371f4f4821f47504672f5bb01d5f6949380195232e29bf42e
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Channel not configured for selected payment option
+    [merchant_reference] => 20200897
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 30000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200999
+    [signature] => 047d34995e6fb66bc04c2517b533720c667b3709732207987d82d88c87e49d34
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 30000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 20200999
+    [digital_wallet] => VISA_CHECKOUT
+    [signature] => 1dd7abbacdc58c5c0acbddd96d4d03c7ca60107be95f2c6af48acc7202f4ab44
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 30000
+    [response_code] => 00046
+    [digital_wallet] => VISA_CHECKOUT
+    [signature] => 510d7b17d6e0f342712a1084ede604e16bcf743322f5105de1840b621e780a4e
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Channel not configured for selected payment option
+    [merchant_reference] => 20200999
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 0
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 
+    [digital_wallet] => MASTERPASS
+    [cart_details] => {"cart_items":[{"item_name":"Xbox360","item_description":"Xbox","item_quantity":"3","item_price":"300","item_image":"http://image.com"},{"item_name":"Xbox1","item_description":"Xbox","item_quantity":"2","item_price":"500","item_image":"http://image.com"}],"sub_total":"800"}
+    [signature] => 1856b6d26ebefbd855756e2108a1d79614b8ce319c73c121fedeace03227f3f9
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 0
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 
+    [digital_wallet] => VISA_CHECKOUT
+    [signature] => 4d27b1b6368b2c517fa83b52135346b172d00e665699441a459f6d2a5efc2668
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 0
+    [response_code] => 00008
+    [digital_wallet] => VISA_CHECKOUT
+    [signature] => 0236a65e876c7c7ee70a9ec7cc1f23ae500f57e7eb57db4f0ada9383bbf5f242
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Signature mismatch
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 30000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 202009100
+    [digital_wallet] => VISA_CHECKOUT
+    [signature] => c02155373e8129f76e676cc9ea2bd6162b55fee66d0345aeb859d212aa6eea75
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 30000
+    [response_code] => 00046
+    [digital_wallet] => VISA_CHECKOUT
+    [signature] => e083600bc66f69fd55ec4b33e82bb5369e6ac1b69b78a690f8e8fd4bd8d18f09
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Channel not configured for selected payment option
+    [merchant_reference] => 202009100
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 202009102
+    [signature] => 4e91f476e98c6c7262e769559c7ab5faa155687b2d81ec91ac5efd036edd2e73
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000000
+    [response_code] => 00046
+    [signature] => 1220ccd3e745049ac1d4f9c0f41034c35696ccd1401cd8ba1fd4c0b80919bf96
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Channel not configured for selected payment option
+    [merchant_reference] => 202009102
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 30000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 202009103
+    [signature] => 2faaa8e9e205e146cf3572aaee0ff78aff9cc3369eeb6f92f279657735bb0d5b
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 30000
+    [currency] => AED
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 202009103
+    [signature] => 2faaa8e9e205e146cf3572aaee0ff78aff9cc3369eeb6f92f279657735bb0d5b
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 30000
+    [response_code] => 00046
+    [signature] => 9cabfed990113769fc19141ec34a3d53234ffcf6489567534b3d057ffb334d53
+    [merchant_identifier] => 879b45fb
+    [access_code] => WGG6Avj6KSL4SX4zfWGQ
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Channel not configured for selected payment option
+    [merchant_reference] => 202009103
+    [customer_email] => test@payfort.com
+    [return_url] => http://estrradodemo.com/vinner/payfort/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 0
+    [currency] => 
+    [merchant_identifier] => 879b45fb
+    [access_code] => 
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://vinshopify.com/vinner/payfort/route.php?r=processResponse
+    [merchant_reference] => 
+    [signature] => 
+)
+
+

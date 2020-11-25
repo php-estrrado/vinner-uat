@@ -1,0 +1,208 @@
+[03-Aug-2016 00:18:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[03-Aug-2016 00:23:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[03-Aug-2016 00:54:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[03-Aug-2016 01:39:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[03-Aug-2016 04:20:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[03-Aug-2016 05:56:57 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[03-Aug-2016 06:07:42 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[04-Aug-2016 02:51:50 America/Chicago] PHP Warning:  Missing argument 1 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[04-Aug-2016 02:51:51 America/Chicago] PHP Warning:  Missing argument 2 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[04-Aug-2016 02:51:51 America/Chicago] PHP Warning:  Missing argument 3 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[04-Aug-2016 02:51:51 America/Chicago] PHP Warning:  Missing argument 4 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[04-Aug-2016 02:51:51 America/Chicago] PHP Warning:  Missing argument 5 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[04-Aug-2016 02:51:51 America/Chicago] PHP Warning:  hash(): Unknown hashing algorithm:  in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 419
+[04-Aug-2016 02:52:08 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[04-Aug-2016 03:17:26 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[04-Aug-2016 03:29:39 America/Chicago] PHP Warning:  Missing argument 1 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[04-Aug-2016 03:29:39 America/Chicago] PHP Warning:  Missing argument 2 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[04-Aug-2016 03:29:39 America/Chicago] PHP Warning:  Missing argument 3 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[04-Aug-2016 03:29:39 America/Chicago] PHP Warning:  Missing argument 4 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[04-Aug-2016 03:29:39 America/Chicago] PHP Warning:  Missing argument 5 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[04-Aug-2016 03:29:39 America/Chicago] PHP Warning:  hash(): Unknown hashing algorithm:  in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 419
+[04-Aug-2016 03:29:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[05-Aug-2016 07:17:18 America/Chicago] PHP Warning:  Missing argument 1 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[05-Aug-2016 07:17:18 America/Chicago] PHP Warning:  Missing argument 2 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[05-Aug-2016 07:17:18 America/Chicago] PHP Warning:  Missing argument 3 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[05-Aug-2016 07:17:18 America/Chicago] PHP Warning:  Missing argument 4 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[05-Aug-2016 07:17:18 America/Chicago] PHP Warning:  Missing argument 5 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 45
+[05-Aug-2016 07:17:18 America/Chicago] PHP Warning:  hash(): Unknown hashing algorithm:  in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 419
+[05-Aug-2016 07:30:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[06-Aug-2016 01:38:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 185
+[09-Aug-2016 09:44:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[09-Aug-2016 09:45:01 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[09-Aug-2016 09:45:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[10-Aug-2016 04:51:21 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 231
+[10-Aug-2016 04:52:16 America/Chicago] PHP Fatal error:  Class 'PayfortIntegration' not found in /home/marinecart/public_html/marine_test/payfort/index.php on line 45
+[10-Aug-2016 04:52:22 America/Chicago] PHP Fatal error:  Class 'PayfortIntegration' not found in /home/marinecart/public_html/marine_test/payfort/index.php on line 45
+[10-Aug-2016 04:54:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[10-Aug-2016 04:58:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[11-Aug-2016 02:20:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[11-Aug-2016 02:21:05 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[11-Aug-2016 02:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[11-Aug-2016 02:22:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[11-Aug-2016 02:27:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/marinecart/public_html/marine_test/payfort/header.php:18) in /home/marinecart/public_html/marine_test/payfort/success.php on line 48
+[29-Nov-2016 05:54:06 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[29-Nov-2016 05:54:07 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 33
+[29-Nov-2016 05:58:38 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[29-Nov-2016 05:58:39 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 33
+[23-Dec-2016 05:58:01 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[28-Dec-2016 00:38:53 CST6CDT] PHP Warning:  Missing argument 1 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 88
+[28-Dec-2016 00:38:53 CST6CDT] PHP Warning:  Missing argument 2 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 88
+[28-Dec-2016 00:38:53 CST6CDT] PHP Warning:  Missing argument 3 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 88
+[28-Dec-2016 00:38:53 CST6CDT] PHP Warning:  Missing argument 4 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 88
+[28-Dec-2016 00:38:53 CST6CDT] PHP Warning:  Missing argument 5 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 88
+[28-Dec-2016 00:38:53 CST6CDT] PHP Warning:  Missing argument 6 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/confirm-order.php on line 4 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 88
+[28-Dec-2016 00:38:53 CST6CDT] PHP Warning:  hash(): Unknown hashing algorithm:  in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 842
+[28-Dec-2016 00:39:30 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[28-Dec-2016 00:39:44 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[28-Dec-2016 00:39:49 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[28-Dec-2016 00:50:39 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[28-Dec-2016 00:50:49 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[28-Dec-2016 00:50:51 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[28-Dec-2016 00:51:29 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[28-Dec-2016 00:51:34 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[28-Dec-2016 00:53:36 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[28-Dec-2016 00:54:02 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[29-Dec-2016 00:20:41 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[29-Dec-2016 00:42:39 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[29-Dec-2016 00:46:22 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[03-Jan-2017 23:50:28 CST6CDT] PHP Warning:  Missing argument 9 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/route.php on line 38 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 88
+[04-Jan-2017 00:07:58 CST6CDT] PHP Warning:  Missing argument 9 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/route.php on line 38 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 88
+[04-Jan-2017 00:10:02 CST6CDT] PHP Warning:  Missing argument 9 for PayfortIntegration::__construct(), called in /home/marinecart/public_html/marine_test/payfort/route.php on line 38 and defined in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 88
+[04-Jan-2017 00:15:44 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[04-Jan-2017 00:15:46 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[04-Jan-2017 00:17:00 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[04-Jan-2017 00:17:00 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[04-Jan-2017 02:02:00 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[04-Jan-2017 02:02:00 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:39:14 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 299
+[04-Jan-2017 02:41:09 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 300
+[04-Jan-2017 02:41:09 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 300
+[04-Jan-2017 02:51:36 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[04-Jan-2017 02:51:37 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[04-Jan-2017 03:59:58 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[04-Jan-2017 03:59:58 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[04-Jan-2017 05:50:25 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[04-Jan-2017 05:57:03 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[04-Jan-2017 05:57:05 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[04-Jan-2017 06:43:16 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 06:43:16 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 06:47:46 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 06:47:46 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 06:48:39 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 06:48:39 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 06:53:20 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 06:53:20 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 07:09:16 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 07:10:28 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 07:31:23 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 07:31:23 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 07:36:03 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 07:36:03 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 07:39:53 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 07:40:15 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 07:40:23 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 07:51:43 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 07:51:52 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 22:28:10 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 22:28:10 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 22:48:12 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 22:48:12 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 23:12:08 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 23:12:12 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 23:13:12 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 23:13:27 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 23:15:46 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 23:15:58 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 23:19:13 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 23:19:26 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 23:23:01 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 23:23:10 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 23:27:15 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 23:27:28 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 22
+[04-Jan-2017 23:50:24 CST6CDT] PHP Fatal error:  Call to undefined function getDecimalPoints() in /home/marinecart/public_html/marine_test/payfort/index.php on line 32
+[04-Jan-2017 23:50:33 CST6CDT] PHP Fatal error:  Call to undefined function getDecimalPoints() in /home/marinecart/public_html/marine_test/payfort/index.php on line 32
+[05-Jan-2017 00:21:06 CST6CDT] PHP Fatal error:  Call to undefined function getDecimalPoints() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 30
+[05-Jan-2017 00:23:25 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[05-Jan-2017 00:23:39 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[05-Jan-2017 00:45:04 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[05-Jan-2017 00:45:23 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[05-Jan-2017 00:51:04 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[05-Jan-2017 00:51:27 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[05-Jan-2017 00:54:15 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[05-Jan-2017 00:54:32 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[05-Jan-2017 00:56:45 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[05-Jan-2017 00:56:46 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[05-Jan-2017 00:59:50 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[05-Jan-2017 01:02:44 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[05-Jan-2017 01:03:03 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/marinecart/public_html/marine_test/payfort/functions.php on line 21
+[05-Jan-2017 01:43:14 CST6CDT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 1039
+[05-Jan-2017 01:43:14 CST6CDT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 1040
+[05-Jan-2017 01:46:38 CST6CDT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 1041
+[05-Jan-2017 01:49:14 CST6CDT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 1040
+[05-Jan-2017 01:49:14 CST6CDT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/marinecart/public_html/marine_test/payfort/PayfortIntegration.php on line 1041
+[09-Jan-2017 00:40:09 CST6CDT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 52
+[09-Jan-2017 00:40:09 CST6CDT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 53
+[09-Jan-2017 00:41:26 CST6CDT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 52
+[09-Jan-2017 00:41:26 CST6CDT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 53
+[09-Jan-2017 00:47:13 CST6CDT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 52
+[09-Jan-2017 00:47:13 CST6CDT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 53
+[09-Jan-2017 00:49:05 CST6CDT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 52
+[09-Jan-2017 00:49:05 CST6CDT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 53
+[09-Jan-2017 00:51:58 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/marine_test/payfort/functions.php on line 17
+[30-Jul-2017 23:34:25 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[30-Jul-2017 23:48:11 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 06:57:42 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 06:57:55 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 06:58:01 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 06:58:02 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36
+[31-Jul-2017 06:58:17 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 06:58:23 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 06:58:24 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36
+[31-Jul-2017 07:04:36 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 07:04:43 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 07:04:43 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36
+[31-Jul-2017 07:06:15 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 07:13:47 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 07:13:47 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36
+[31-Jul-2017 07:14:43 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 07:14:44 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36
+[31-Jul-2017 07:18:06 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 07:18:06 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36
+[31-Jul-2017 07:34:55 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 07:34:55 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36
+[31-Jul-2017 07:36:48 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 07:36:48 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36
+[31-Jul-2017 07:37:50 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 07:37:51 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36
+[31-Jul-2017 07:38:43 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 07:38:44 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36
+[31-Jul-2017 07:40:16 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[31-Jul-2017 07:40:16 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36
+[31-Jul-2017 07:42:18 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36
+[17-Feb-2018 06:40:28 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 17
+[17-Feb-2018 06:40:28 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36
+[17-Feb-2018 06:40:32 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marinecart/public_html/payfort/functions.php on line 36

@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-10-15 14:20:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 14:34:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 14:34:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 15:15:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 15:23:48 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 15:35:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 15:44:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 16:11:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 16:18:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 16:23:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 16:27:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 16:52:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 17:11:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 17:30:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 17:39:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 17:41:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 18:01:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 18:17:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 18:36:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 18:48:36 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 19:39:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 19:39:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/models/Crud_model.php 984
+ERROR - 2018-10-15 19:41:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 19:43:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 20:10:01 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 20:50:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 22:01:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 22:01:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 23:45:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79
+ERROR - 2018-10-15 23:58:27 --> Severity: Warning --> Invalid argument supplied for foreach() /home/marinecart/public_html/application/views/front/related_products.php 79

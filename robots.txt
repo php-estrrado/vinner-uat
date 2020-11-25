@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+
+
+Allow: /
+
+Sitemap: https://www.marinecart.com/sitemap.xml
